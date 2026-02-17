@@ -14,8 +14,8 @@ The application can be converted into a standalone `.exe` file using PyInstaller
 
 ## Requirements
 
--Python 3.x
--PyInstaller
+-- Python 3.x
+-- PyInstaller
 
 Install PyInstaller:
 ```python
